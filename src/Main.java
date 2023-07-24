@@ -16,7 +16,7 @@ public class Main {
         System.out.printf("Luas lingkaran : %.2f\n", luasLingkaran(radius));
     }
 
-    // Menghitung keliling lingkaran
+    // Menghitung hasil keliling lingkaran
     public static double kelilingLingkaran(double jari){
         return 2 * Math.PI * jari;
     }
