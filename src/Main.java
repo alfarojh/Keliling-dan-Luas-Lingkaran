@@ -21,7 +21,7 @@ public class Main {
         return 2 * Math.PI * jari;
     }
 
-    // Menghitung luas lingkaran
+    // Menghitung hasil luas lingkaran
     public static double luasLingkaran(double jari){
         return Math.PI * jari * jari;
     }
