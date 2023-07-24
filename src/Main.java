@@ -11,7 +11,7 @@ public class Main {
         double radius = scanner.nextInt();
 
 
-        // Untuk memprint hasil ke CLI
+        // Untuk menampilkan hasil ke CLI
         System.out.printf("Keliling lingkaran : %.2f\n", kelilingLingkaran(radius));
         System.out.printf("Luas lingkaran : %.2f\n", luasLingkaran(radius));
     }
